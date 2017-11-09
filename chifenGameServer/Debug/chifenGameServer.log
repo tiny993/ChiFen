@@ -1,0 +1,7 @@
+﻿  serverMain.cpp
+f:\ccode\chifengame\chifengameserver\servermain.cpp(8): warning C4018: “<”: 有符号/无符号不匹配
+  poker.cpp
+  header.cpp
+  正在生成代码...
+  chifenGameServer.vcxproj -> F:\Ccode\chifenGame\Debug\chifenGameServer.exe
+  chifenGameServer.vcxproj -> F:\Ccode\chifenGame\Debug\chifenGameServer.pdb (Full PDB)
